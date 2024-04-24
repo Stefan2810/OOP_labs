@@ -19,20 +19,3 @@ This repository contains a series of lab exercises completed as part of a univer
 5. **Exception Handling**
 6. **File Handling**
 7. **Design Patterns**
-
-## Usage
-1. Clone or download the repository.
-2. Navigate to the desired lab exercise.
-3. Follow the instructions in the README file.
-4. Implement the required functionality in C++.
-5. Test and verify your implementation.
-6. Refer to sample solutions for comparison and insights.
-
-## Contributions
-Contributions are welcome! Submit pull requests for issues, improvements, or new lab exercises.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-Special thanks to instructors and educators for guidance and resources.
